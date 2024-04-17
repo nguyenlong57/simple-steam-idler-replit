@@ -19,6 +19,7 @@ user.on('loggedOn', () => {
 });
 
 
+});
 // var username2 = process.env.username2;
 // var password2 = process.env.password2;
 // var shared_secret2 = process.env.shared2;
